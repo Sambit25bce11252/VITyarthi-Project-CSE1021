@@ -25,7 +25,7 @@ This is a simple Python-based Expense Tracker that allows users to record expens
 
 # FEATURES :-
 1. User can add expenses (name of category , amount ).
-2. ser can view all expenses.
+2. User can view all expenses.
 3. Can calculate total spent expenses.
 4. Can store all expenses category-wise in a list.
 
